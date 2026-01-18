@@ -1,4 +1,2 @@
 央视,#genre#
 1,https://edge11-nrt.live.mmcdn.com/live-hls/amlst:jennycutey-sd-8b7a581cfb4e2503d5d39d4aa39f56026e7e56c19de6dd2c4858fddfa7497db3_trns_h264/playlist.m3u8
-12,https://dash-s4-c50-ca-cdn.eporner.com/hls/v5/14953333-,240p-av1,360p-av1,480p-av1,720p-av1,1080p-av1,1440p-av1,.mp4.urlset/master.m3u8?hash=vHxTp2EsppW5p_IbPwQqng&expires=1768813082&ip=13.115.186.21
-
