@@ -1,2 +1,2 @@
-央视,#genre#
-1,https://edge18-nrt.live.mmcdn.com/live-hls/amlst:melana_love-sd-456838c361b0c38e47f21e2f99aa39ce18d94b5038d24025d5a18f265baf9ffe_trns_h264/playlist.m3u8
+测试,#genre#
+1,https://edge3-nrt.live.mmcdn.com/live-hls/amlst:bitter_moon-sd-52db16543fedf3554bd4ebc0230128fbea1848c38c3dc9b348d145b769ba355c_trns_h264/chunklist_w314262507_b5128000_t64RlBTOjMwLjA=.m3u8
