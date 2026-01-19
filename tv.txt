@@ -1,2 +1,2 @@
 测试,#genre#
-1,https://m.douyu.com/10084875?dyshid=0-6aeacfa7ab455b90e11840ad000817p1&dyshci=208
+1,https://e551207c8d6ecfaf0aa2affe81418c50.livehwc4.com/openhls-hw.douyucdn2.cn/live/10084875r7cR9qkP_2000.m3u8?token=h5-douyu-0-10084875-64e98ea97bb2e88e2ee6d21b7f55a86c&edge_slice=true&vhost=play4&did=333c341e8c9d93826f878658000817p1&sid=426011874&origin=hw&sub_m3u8=true&user_session_id=8ab531c0de016af4565c4d1af75410ff&txTime=696df418&txSecret=15276198e865a55bb42cd4fa7a056b67
