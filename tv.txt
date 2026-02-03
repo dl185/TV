@@ -1,2 +1,2 @@
 测试,#genre#
-1,https://v7.slv525627.com/20260119/w94wtBY3/2000kb/hls/index.m3u8
+1,https://edge25-ash.live.mmcdn.com/live-edge/amlst:ava_delightt-sd-944e3e40a97ad76e92da67a9d583f96d2f0c74e1bd4ecf6d8f6d556ae43bd27e_trns_h264/playlist.m3u8?t=%7B%22username%22%3A%22jhs0377%22%2C%22room%22%3A%22ava_delightt%22%2C%22expire%22%3A1770112959%2C%22org%22%3A%22A%22%2C%22sig%22%3A%22fbc1db2e47f9e55f395c8b766a40c79bcdace73631333d03c2d4b4701d9559a0%22%7D&u=jhs0377&rp=72d3bcfe59e27eab998080ccc4047c2d777d1140f33632cfba8e3f05f4579c05
