@@ -1,3 +1,4 @@
 测试,#genre#
-1,https://edge24-sin.live.mmcdn.com/live-hls/amlst:sabrina365-sd-252c3f2431711782e73ab648dcb6e4f17a82c5dd5c3f113e1c6909a84a98a312_trns_h264/playlist.m3u8
+1,
+
 
