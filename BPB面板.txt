@@ -1,0 +1,11 @@
+
+在变量和机密名称：UUID           TR_PASS  
+
+网址后面添加：      /panel       回车  
+
+要想更多节点，可在BPB面板上TLS Ports 后面全选
+
+Proxy IPs / Domains  ：bpb.yousef.isegaro.com
+
+NAT64 Prefixes ：  [2602:fc59:b0:64::]  [2a02:898:146:64::]  [2602:fc59:11:64::]
+
