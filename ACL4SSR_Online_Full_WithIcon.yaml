@@ -345,6 +345,13 @@ proxy-groups:
       - 奈飞节点
 
 rule-providers:
+  Soop:
+    type: http
+    behavior: classical
+    url: https://github.com
+    path: ./ruleset/Soop.list
+    interval: 86400
+    format: text
   LocalAreaNetwork:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
     path: ./ruleset/LocalAreaNetwork.list
@@ -562,12 +569,6 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-  Soop:
-    behavior: classical
-    path: ./ruleset/Soop.list
-    url: https://github.com/KeterCo/ClashRules/raw/refs/heads/main/Soop.list
-    interval: 86400
-    format: text
 
 rules:
   - "RULE-SET,Soop,Soop直播"
