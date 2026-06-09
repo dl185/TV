@@ -571,7 +571,7 @@ rule-providers:
     type: http
 
 rules:
-  - "RULE-SET,Soop,Soop直播"
+  - "RULE-SET,KeterCo_Soop,Soop直播"
   - "DOMAIN-KEYWORD,soop,Soop直播"
   - "DOMAIN-KEYWORD,afreeca,Soop直播"
   - "DOMAIN-SUFFIX,soopcdn.com,Soop直播"
