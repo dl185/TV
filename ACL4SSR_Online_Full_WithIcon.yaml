@@ -22,6 +22,7 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Auto.png
     type: url-test
     include-all: true
+    exclude-filter: (?i)CF|西班牙
     interval: 300
     tolerance: 50
   - name: 电报消息
