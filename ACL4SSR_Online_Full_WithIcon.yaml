@@ -345,11 +345,11 @@ proxy-groups:
       - 奈飞节点
 
 rule-providers:
-  KeterCo_Soop:
+  Soop:
     type: http
     behavior: classical
-    url: https://jsdelivr.net
-    path: ./ruleset/KeterCo_Soop.list
+    url: https://github.com
+    path: ./ruleset/Soop.list
     interval: 86400
     format: text
   LocalAreaNetwork:
@@ -571,11 +571,7 @@ rule-providers:
     type: http
 
 rules:
-  - "RULE-SET,KeterCo_Soop,Soop直播"
-  - "DOMAIN-KEYWORD,soop,Soop直播"
-  - "DOMAIN-KEYWORD,afreeca,Soop直播"
-  - "DOMAIN-SUFFIX,soopcdn.com,Soop直播"
-  - "DOMAIN-SUFFIX,sooplive.co.kr,Soop直播"
+  - "RULE-SET,Soop,Soop直播"
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
