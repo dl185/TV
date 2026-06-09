@@ -345,11 +345,11 @@ proxy-groups:
       - 奈飞节点
 
 rule-providers:
-  Soop:
+  KeterCo_Soop:
     type: http
     behavior: classical
-    url: https://github.com
-    path: ./ruleset/Soop.list
+    url: https://githubusercontent.com
+    path: ./ruleset/KeterCo_Soop.list
     interval: 86400
     format: text
   LocalAreaNetwork:
@@ -572,12 +572,6 @@ rule-providers:
 
 rules:
   - "RULE-SET,Soop,Soop直播"
-  - "DOMAIN-SUFFIX,sooplive.com,Soop直播"
-  - "DOMAIN-SUFFIX,afreecatv.com,Soop直播"
-  - "DOMAIN-SUFFIX,sooplive.co.kr,Soop直播"
-  - "DOMAIN-SUFFIX,soopcdn.com,Soop直播"
-  - "DOMAIN-SUFFIX,afreeca.com,Soop直"
-  - "DOMAIN-KEYWORD,soop,Soop直播"
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
