@@ -574,6 +574,8 @@ rules:
   - "RULE-SET,Soop,Soop直播"
   - "DOMAIN-SUFFIX,sooplive.com,Soop直播"
   - "DOMAIN-SUFFIX,afreecatv.com,Soop直播"
+  - "DOMAIN-SUFFIX,sooplive.co.kr,Soop直播"
+  - "DOMAIN-SUFFIX,soopcdn.com,Soop直播"
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
