@@ -350,8 +350,8 @@ rule-providers:
   Soop:
     type: http
     behavior: classical
-    url: https://github.com
-    path: ./ruleset/Soop.list
+    url: "https://raw.githubusercontent.com/KeterCo/ClashRules/refs/heads/main/Soop.list"
+    path: ./ruleset/soop.yaml
     interval: 86400
     format: text
   LocalAreaNetwork:
