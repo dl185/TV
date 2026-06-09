@@ -1,5 +1,3 @@
-sniffer:
-  enable: false
 proxy-groups:
   - name: 节点选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
@@ -574,6 +572,18 @@ rule-providers:
     type: http
 
 rules:
+  - IP-CIDR,1.0.0.2/32,节点选择,no-resolve
+  - IP-CIDR6,2606:4700:4700::1111/128,节点选择,no-resolve
+  - DOMAIN,4.ipcheck.ing,DIRECT
+  - DOMAIN,6.ipcheck.ing,DIRECT
+  - DOMAIN,ptest-1.ipcheck.ing,节点选择
+  - DOMAIN,ptest-2.ipcheck.ing,节点选择
+  - DOMAIN,ptest-3.ipcheck.ing,节点选择
+  - DOMAIN,ptest-4.ipcheck.ing,节点选择
+  - DOMAIN,ptest-5.ipcheck.ing,节点选择
+  - DOMAIN,ptest-6.ipcheck.ing,节点选择
+  - DOMAIN,ptest-7.ipcheck.ing,节点选择
+  - DOMAIN,ptest-8.ipcheck.ing,DIRECT
   - "RULE-SET,Soop,Soop直播"
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
