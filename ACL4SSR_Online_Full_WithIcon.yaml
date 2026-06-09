@@ -301,6 +301,7 @@ proxy-groups:
     type: select
     proxies:
       - CF / 西班牙 01
+      - DIRECT
       - 手动切换
       - 韩国节点
       - 节点选择
