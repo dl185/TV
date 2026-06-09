@@ -348,7 +348,7 @@ rule-providers:
   KeterCo_Soop:
     type: http
     behavior: classical
-    url: https://githubusercontent.com
+    url: https://jsdelivr.net
     path: ./ruleset/KeterCo_Soop.list
     interval: 86400
     format: text
