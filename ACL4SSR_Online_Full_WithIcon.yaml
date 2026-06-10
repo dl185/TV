@@ -300,10 +300,9 @@ proxy-groups:
   - name: Soop直播
     icon: https://cdn.jsdelivr.net/gh/dl185/TV@main/SOOP.png
     type: select
-    include-all: true
-    filter: "(?i)CF|西班牙|KR|Korea|KOR|首尔|韩|韓"
     proxies:
       - DIRECT
+      - 手动切换
   - name: 奈飞节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     include-all: true
