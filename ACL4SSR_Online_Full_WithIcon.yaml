@@ -298,7 +298,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
   - name: Soop直播
-    icon: https://raw.githubusercontent.com/dl185/TV/refs/heads/main/SOOP.png
+    icon: https://cdn.jsdelivr.net/gh/dl185/TV@main/SOOP.png
     type: select
     include-all: true
     filter: "(?i)CF|西班牙|KR|Korea|KOR|首尔|韩|韓"
@@ -328,7 +328,7 @@ proxy-groups:
       - 国内媒体
       - 谷歌FCM
       - 微软Bing
-      - 微soft云盘
+      - 微软云盘
       - 微软服务
       - 苹果服务
       - 游戏平台
