@@ -298,13 +298,12 @@ proxy-groups:
     interval: 300
     tolerance: 50
   - name: Soop直播
+    icon: https://github.com/dl185/TV/blob/main/SOOP.png?raw=true
     type: select
+    include-all: true
+    filter: "(?i)CF|西班牙|KR|Korea|KOR|首尔|韩|韓"
     proxies:
-      - CF / 西班牙 01
       - DIRECT
-      - 手动切换
-      - 韩国节点
-      - 节点选择
   - name: 奈飞节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     include-all: true
@@ -329,7 +328,7 @@ proxy-groups:
       - 国内媒体
       - 谷歌FCM
       - 微软Bing
-      - 微软云盘
+      - 微soft云盘
       - 微软服务
       - 苹果服务
       - 游戏平台
