@@ -298,7 +298,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
   - name: Soop直播
-    icon: https://github.com/dl185/TV/blob/main/SOOP.png?raw=true
+    icon: https://raw.githubusercontent.com/dl185/TV/refs/heads/main/SOOP.png
     type: select
     include-all: true
     filter: "(?i)CF|西班牙|KR|Korea|KOR|首尔|韩|韓"
