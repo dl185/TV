@@ -22,7 +22,7 @@ proxy-groups:
     include-all: true
     exclude-filter: (?i)CF|西班牙|^SOOP|^SOOP-2
     interval: 300
-    tolerance: 50
+    tolerance: 10
   - name: 电报消息
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
     type: select
