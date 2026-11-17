@@ -1,0 +1,3 @@
+央视,#genre#
+CCTV-1,https://tv.cctv.com/live/cctv1/
+江苏卫视,https://live.jstv.com/
